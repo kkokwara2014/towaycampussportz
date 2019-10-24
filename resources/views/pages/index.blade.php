@@ -8,8 +8,8 @@
             <div class="span12">
                 <div class="big-cta">
                     <div class="cta-text">
-                        <h3>We are <span class="highlight"><strong>Done-Right Systems Inc.,</strong></span></h3>
-                        <blockquote>... out for providing software solutions to make YOU efficient.</blockquote>
+                        <h3>We are <span class="highlight"><strong>Toway Campus Sportz!</strong></span></h3>
+                        <blockquote>... managing sportz in various campuses.</blockquote>
                     </div>
                     <div class="cta floatright">
                     <a class="btn btn-large btn-theme btn-rounded" href="{{route('contactus')}}">Contact Us</a>

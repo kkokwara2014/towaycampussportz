@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8">
-        <title>Done-Right Systems Inc.,</title>
+        <title>Toway Campus Sportz</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="" />
         <meta name="author" content="" />
