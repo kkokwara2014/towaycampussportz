@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
           <div class="span7">
-            <h2>Done-Right Systems Inc.,</h2>
+            <h2>Yesufu</h2>
             <p>
               Ei mel semper vocent persequeris, nominavi patrioque vituperata id vim, cu eam gloriatur philosophia deterruisset. Meliore perfecto repudiare ea nam, ne mea duis temporibus. Id quo accusam consequuntur, eum ea debitis urbanitas. Nibh reformidans vim ne.
             </p>

@@ -180,14 +180,14 @@
         <div class="row">
           <div class="span4">
             <div class="inner-heading">
-              <h2>About Us</h2>
+              <h2>{{$title}}</h2>
             </div>
           </div>
           <div class="span8">
             <ul class="breadcrumb">
               <li><a href="#"><i class="icon-home"></i></a><i class="icon-angle-right"></i></li>
-              <li><a href="#">Home</a><i class="icon-angle-right"></i></li>
-              <li class="active">About us</li>
+              <li><a href="#">About</a><i class="icon-angle-right"></i></li>
+              <li class="active">{{$title}}</li>
             </ul>
           </div>
         </div>

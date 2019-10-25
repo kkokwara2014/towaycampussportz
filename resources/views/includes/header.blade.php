@@ -62,9 +62,9 @@
                         <div class="span12">
                             <div class="headnav">
                                 <ul>
-                                    {{-- <li><a href="#mySignup" data-toggle="modal"><i class="icon-user"></i> Sign up</a>
+                                    <li><a href="#mySignup" data-toggle="modal"><i class="icon-user"></i> Sign up</a>
                                     </li>
-                                    <li><a href="#mySignin" data-toggle="modal">Sign in</a></li> --}}
+                                    <li><a href="#mySignin" data-toggle="modal">Sign in</a></li>
                                 </ul>
                             </div>
                             <!-- Signup Modal -->
@@ -179,7 +179,7 @@
                             <div class="logo">
                                 <a href="index.html"><img src="{{asset('bootstrap_assets/img/logo.png')}}" alt=""
                                         class="logo" /></a>
-                                <h1>...delivering effective software solutions</h1>
+                                <h1>...managing sportz in campuses</h1>
                             </div>
                         </div>
 
