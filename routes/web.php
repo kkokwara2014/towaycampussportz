@@ -19,9 +19,10 @@
 
 // Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/', 'PagesController@index')->name('index');
-Route::get('/services', 'PagesController@services');
-Route::get('/team', 'PagesController@team');
-Route::get('/project', 'PagesController@project');
+Route::get('/services', 'PagesController@services')->name('services');
+Route::get('/team', 'PagesController@team')->name('team');
+Route::get('/project', 'PagesController@project')->name('project');
+Route::get('/event', 'PagesController@event')->name('event');
 
 
 Route::prefix('/about')->group(function () {

@@ -61,4 +61,9 @@ class PagesController extends Controller
         $data=array('title'=>'Our Sponsors');
         return view('pages.oursponsors')->with($data);
     }
+    public function event()
+    {
+        $data=array('title'=>'Events');
+        return view('pages.events')->with($data);
+    }
 }
