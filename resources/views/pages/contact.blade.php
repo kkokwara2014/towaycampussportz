@@ -60,14 +60,13 @@
           <h4>Our Contact Details</h4>
         <p>
           <address>
-            <i class="icon-map-marker"></i><strong>Done-Right Systems Inc.,</strong><br>
+            <i class="icon-map-marker"></i><strong>Toway Campus Sportz</strong><br>
             Plot 22 Road 5, Gwarinpa, Abuja. Nigeria.<br>
             Flat 18B Afikpo Housing Estate, Afikpo, Ebonyi. Nigeria.<br>
-            10 Nuhu Aliyu Crescent, Barnawa, Kaduna. Nigeria.<br>
-            12 Utang Street, Off Willington Bassey Road, Uyo. Nigeria.<br>
+            
           </address>
-          <i class="icon-phone"></i> (+234) 803-888-3919 <br>
-          <i class="icon-envelope-alt"></i> telldoneright@donerightsystems.org
+          <i class="icon-phone"></i> (+234) 806-717-5450 <br>
+          <i class="icon-envelope-alt"></i> services@towaycampussportz.com
         </p>
       </div>
     </div>
@@ -96,8 +95,8 @@
           <ul class="link-list">
             <li><a href="#">Press release</a></li>
             <li><a href="#">Terms and conditions</a></li>
-            <li><a href="#">Privacy policy</a></li>
-            <li><a href="#">Career center</a></li>
+            {{-- <li><a href="#">Privacy policy</a></li>
+            <li><a href="#">Career center</a></li> --}}
             {{-- <li><a href="#">Flattern forum</a></li> --}}
           </ul>
         </div>
@@ -107,15 +106,14 @@
         <div class="widget">
           <h5 class="widgetheading">Contact Us</h5>
           <address>
-            <strong>Done-Right Systems Inc.,</strong><br>
+            <strong>Toway Campus Sportz</strong><br>
             Plot 22 Road 5, Gwarinpa, Abuja. Nigeria.<br>
             Flat 18B Afikpo Housing Estate, Afikpo, Ebonyi. Nigeria.<br>
-            10 Nuhu Aliyu Crescent, Barnawa, Kaduna. Nigeria.<br>
-            12 Utang Street, Off Willington Bassey Road, Uyo. Nigeria.<br>
+           
           </address>
           <p>
-            <i class="icon-phone"></i> (+234) 803-888-3919 <br>
-            <i class="icon-envelope-alt"></i> telldoneright@donerightsystems.org
+            <i class="icon-phone"></i> (+234) 806-717-5450  <br>
+            <i class="icon-envelope-alt"></i> services@towaycampussportz.com
           </p>
         </div>
       </div>
